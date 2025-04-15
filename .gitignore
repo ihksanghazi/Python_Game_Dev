@@ -1,2 +1,6 @@
 env
 gallery
+build
+dist
+*.exe
+*.spec
